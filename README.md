@@ -1,5 +1,5 @@
 ## 概要
-マンガでわかるDockerの第1〜3巻までを参考に、dockerを暑かった。
+マンガでわかるDockerの第1〜3巻までを参考に、dockerを扱った。
 
 ## 使用技術
 * Docker / Docker Hub
